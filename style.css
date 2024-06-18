@@ -1,0 +1,497 @@
+body {
+  background-color: black;
+  font-family: lucida console, monospace;
+  font-weight: normal;
+}
+
+.tab1 {
+  background: white;
+  width: 800px;
+  height: 750px;
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab2 {
+  background: white;
+  width: 800px;
+  height: 750px;
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab3 {
+  background: white;
+  width: 800px;
+  height: 750px;
+  position: absolute;
+  top: 70px;
+  left: 140px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab4 {
+  background: white;
+  width: 800px;
+  height: 750px;
+  position: absolute;
+  top: 90px;
+  left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab5 {
+  background: white;
+  width: 900px;
+  height: 550px;
+  position: absolute;
+  top: 50px;
+  left: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.innertab5 {
+  background: black;
+  width: 99.4%;
+  height: 95.4%;
+  margin-left: 3px;
+  margin-top: 23px;
+  margin-bottom: 0px;
+}
+
+.comptext {
+  position: absolute;       
+  color: greenyellow;
+  left: 450px;
+  top: 45px;
+  width: 420px;
+  height: 470px;
+}
+
+.tab6 {
+  background: white;
+  width: 900px;
+  height: 550px;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab7 {
+  background: white;
+  width: 900px;
+  height: 550px;
+  position: absolute;
+  top: 150px;
+  left: 120px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab8 {
+  background: white;
+  width: 900px;
+  height: 550px;
+  position: absolute;
+  top: 70px;
+  left: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab9 {
+  background: white;
+  width: 900px;
+  height: 550px;
+  position: absolute;
+  top: 120px;
+  left: 230px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.head {
+  margin-top: 45px;
+  margin-left: 35px;
+  position: absolute;
+}
+
+.head:hover {
+  cursor: pointer;
+}
+
+.tab10 {
+  background: white;
+  width: 900px;
+  height: 185px;
+  position: absolute;
+  top: -10px;
+  left: 280px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.innertab10 {
+  background: black;
+  width: 99.4%;
+  height: 86.2%;
+  margin-left: 3px;
+  margin-top: 23px;
+  margin-bottom: 0px;
+}
+
+.skills {
+  position: absolute;
+  color: black;
+  text-align: center;
+  margin: 4px;
+  margin-top: -12px;
+  margin-left: 430px;
+}
+
+.skillslogo {
+  position: absolute;
+  left: 150px;
+  top: 30px;
+}
+
+.tab11 {
+  background: white;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 70px;
+  left: 120px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.innertab11 {
+  background: black;
+  width: 98.3%;
+  height: 91.5%;
+  margin-left: 3px;
+  margin-top: 23px;
+  margin-bottom: 0px;
+}
+
+.skills2 {
+  position: absolute;
+  color: black;
+  text-align: center;
+  margin: 4px;
+  margin-top: -12px;
+  margin-left: 140px;
+}
+
+.skillslogo1 {
+  position: absolute;
+  top: 40px;
+  text-align: center;
+  color: orange;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tab12 {
+  background: white;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 40px;
+  left: 880px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skillslogo2 {
+  position: absolute;
+  top: 40px;
+  text-align: center;
+  color: rgb(116, 190, 255);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+
+.tab13 {
+  background: white;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 500px;
+  left: -20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skillslogo3 {
+  position: absolute;
+  top: 60px;
+  text-align: center;
+  color: rgb(70, 222, 70);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tab14 {
+  background: white;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 480px;
+  left: 900px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skillslogo4 {
+  position: absolute;
+  top: 50px;
+  text-align: center;
+  color: darkgreen;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tab15 {
+  background: white;
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 320px;
+  left: 460px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skillslogo5 {
+  position: absolute;
+  top: 50px;
+  text-align: center;
+  color: rgb(229, 255, 0);
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.tab16 {
+  background: white;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  top: 120px;
+  left: 150px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  animation-name: crash2;
+  animation-duration: 0.01s;
+  animation-delay: 8s;
+  animation-fill-mode: forwards;
+}
+
+.tab17 {
+  background: white;
+  opacity: 100%;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  top: 140px;
+  left: 150px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab18 {
+  background: white;
+  opacity: 100%;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  top: 180px;
+  left: 180px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab19 {
+  background: white;
+  opacity: 100%;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  top: 10px;
+  left: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tab20 {
+  background: white;
+  opacity: 100%;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  top: -20px;
+  left: 80px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.yourarchetype {
+  position: absolute;
+  left: 40px;
+  top: 60px;
+}
+
+
+.jimbakker {
+  position: absolute;
+border: 2px;
+left: 180px;
+top: 160px;
+}
+
+.jimbakkerr {
+  position: absolute;
+border: 2px;
+left: -110px;
+top: 0px;
+}
+
+@keyframes crash2 {
+  from {
+    opacity: 100%;
+  }
+  to {
+    opacity: 0%;
+  }
+}
+
+@keyframes crash3 {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+.innertab16 {
+  background: black;
+  width: 99.5%;
+  height: 95.7%;
+  margin-left: 3px;
+  margin-top: 23px;
+  margin-bottom: 0px;
+}
+
+.archetype {
+  position: absolute;
+  color: black;
+  text-align: center;
+  margin: 4px;
+  margin-top: -12px;
+  margin-left: 450px;
+}
+
+.end {
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+}
+
+.redbutton {
+  background: deeppink;
+  width: 15px;
+  height: 15px;
+  border-radius: 10px;
+  right: 0;
+  float: left;
+  margin: 4px;
+  margin-top: 4px;
+}
+
+.redbutton:hover {
+  cursor: pointer;
+}
+
+.bluebutton {
+  background: blue;
+  width: 15px;
+  height: 15px;
+  border-radius: 10px;
+  right: 0;
+  float: left;
+  margin: 4px;
+  margin-top: 4px;
+  margin-left: 0.5px;
+}
+
+.bluebutton:hover {
+  cursor: pointer;
+}
+
+.jimbakker:hover {
+  cursor: pointer;
+}
+
+.introduction {
+  position: absolute;
+  color: black;
+  text-align: center;
+  margin: 4px;
+  margin-top: -12px;
+  margin-left: 340px;
+}
+
+.innertab {
+  background: black;
+  width: 99.3%;
+  height: 96.5%;
+  margin-left: 3px;
+  margin-top: 23px;
+  margin-bottom: 0px;
+}
+
+.intrologo {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 40px;
+}
+
+.border {
+  position: absolute;
+  width: 735px;
+  height: 550px;
+  top: 150px;
+  left: 30px;
+  border: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
+.stan {
+  margin-top: 25px;
+  margin-left: 80px;
+  position: absolute;
+}
+
+.introduction-text {
+  font-size: 20px;
+  color: red;
+  width: 400px;
+  height: 500px;
+  position: absolute;
+  left: 320px;
+  top: 30px;    
+  text-align: left;    
+}
+
+.loading {
+  position: absolute;
+  left: 380px;
+  top: 270px;
+  color: white;
+  text-align: center;
+}
+
+.structered {
+  position: absolute;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+left: 130px;
+top: 60px;
+}
